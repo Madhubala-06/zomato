@@ -1,0 +1,372 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+
+}
+header{
+    background-image: url(imges/Zomato\ part2.jpg);
+    height:570px;
+    width:100%;
+    background-size: cover;
+
+    color:white;
+}
+
+.logopart{
+    height:110px;
+    width:1120px;
+   
+    margin-left: 16%;
+    margin-top: 1.5%;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+}
+.link{
+    height:100px;
+    width:50%;
+}
+ul{
+    display: flex;
+    justify-content: space-evenly;
+}
+li{
+    list-style: none;
+    color:solid white;
+}
+a{
+    text-decoration: none;
+    color:white;
+}
+.logozom{
+    height:60px;
+    width:300px;
+    margin-left: 42%;
+    margin-top: 1.5%;
+}
+
+.botlogo h1{
+ font-size: 36px;
+ color:white;
+ text-align: center;
+ margin-top: 24px;
+ 
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+ 
+
+}
+#point {
+   
+   margin-top: 20px;
+   margin-left: 5px;
+
+}
+#btn {
+    height:50px;
+    width:700px;
+    border:2px solid white;
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+ margin-left: 27%;
+ margin-top: 2%;
+ color:rgb(146, 145, 145);
+}
+.loc{
+    height:20px;
+    width:20px;
+    margin-top: 10px;
+}
+.box{
+    display: flex;
+}
+#some{
+    border: 0px;
+    width:300px;
+    margin-top:3px;
+    margin-left: 5px;
+}
+span{
+    height:20px;
+    width:14px;
+    margin-right: 10px;
+    
+}
+#rvnagar{
+    text-align: center;
+    height:50px;
+    border: 0px;
+}
+.po{
+    margin-right: 20px;
+    margin-top: 13px;
+    margin-left: 5px;
+}
+.mate{
+    margin-top: 10px;
+}
+.number-2{
+    display:flex;
+    width:1125px;
+    height:240px;
+    justify-content: space-between;
+    position:absolute;
+    top:68%;
+    left:160px;
+    color:rgb(146, 145, 145);
+    font-weight: 500;
+}
+.zom-1 img{
+    height:200px;
+    width:360px;
+    border-radius: 9px;
+    position: absolute;
+    z-index: 2;
+
+}
+.zom-1{
+    height:240px;
+    width:360px;
+    
+}
+.text{
+    width:359px;
+    height:70px;
+    position: relative;
+    top:165px;
+    background-color: white;
+    z-index: 3;
+    border: 1px solid  grey;
+ border-radius: 0px 0px 10px 10px;
+ 
+}
+.number-3{
+    position:absolute;
+    top:100%;
+    left:10%;
+}
+.number-3 h1{
+    margin-left: 50px;
+}
+.in{
+    display: flex;
+    justify-content: space-between;
+    height:150px;
+    width:1125px;
+    margin-top: 10px;
+  margin-left: 50px;
+}
+.downim{
+    height:360px;
+    width:1125;
+    border:2px black;
+    display: flex;
+    justify-content: space-evenly;
+    position: absolute;
+    top:120%;
+    left:13%
+  
+}
+.go{
+    height: 360px;
+    width:250px;
+    border:2px black;
+
+}
+.ppp{
+    height: 360px;
+    width:250px;
+    border-radius: 10px;
+}
+.tex-2{
+    position: relative;
+    bottom:50px;
+    color:white;
+    
+}
+.two{
+ margin-left: 15px;
+}
+.three{
+    margin-left: 15px;
+}
+.four{
+    margin-left: 15px;
+}
+
+.number-4{
+    height:450px;
+    width:1105px;
+    position: absolute;
+    top:176%;
+    left:12%;
+    
+}
+  #oor{
+    height:80px;
+    width: 350px;
+    background-color:white;
+    margin-top: 50px;
+ box-shadow: 1px 1px 1px 1px grey;
+
+}
+.material-symbols-outlined{
+    margin-left: 90%;
+    margin-bottom: 10%;
+    position: relative;
+    bottom: 25px;
+    
+}
+#oor h3{
+top: 10px;
+    font-weight: 400;
+    position: relative;
+}
+.place{
+    position: relative;
+    top:20px;
+}
+.box-1{
+    display: flex;
+    justify-content:space-between;
+    width:1100px;
+    height:100px;
+ margin-right: 50px;
+ 
+}
+.number-6{
+    background-color: rgb(255, 251, 247);
+    height:450px;
+   width:1100px;
+   
+    margin-top: 170px;
+    display: flex;
+    
+
+
+
+}
+.left{
+    width:450px;
+    height:450px;
+    
+    
+}
+.phone{
+    width:200px;
+    height:300px;
+    margin-top: 60px;
+    margin-left: 200px;
+    border-radius: 10%;
+}
+.sethu{
+    height: 450;
+    width: 1100px;
+    
+    display: flex;
+}
+.right{
+    width:800px;
+    height: 450;
+   
+    margin-left: 50px;
+    margin-top: 60px;
+}
+#radio-2{
+    color:black;
+}
+[type="radio"]:checked+label:after {
+    background-color: red;
+    border: 2px solid red;
+    
+  }
+  #mail{
+    height:20px;
+    width:300px;
+  }
+  input[type=email]{
+
+    border: 1px solid;
+    color: white;
+    padding: 16px 16px;
+    text-decoration: none;
+    cursor: pointer;
+    border-color: rgba(239,79,95,255);
+    border-radius: 7px;
+ 
+  }
+ 
+ #share{
+    height:50px;
+    width:150px;
+    background-color:rgba(239,79,95,255); 
+    color:white;
+    border:none;
+    padding: 16px 16px;
+    border-radius: 7px;
+    cursor: pointer;
+ }
+ .app{
+    color:rgb(179, 177, 177);
+    font-size: 15px;
+    font-weight: 200;
+ }
+ .lay{
+width:140px;
+height: 40px;
+ }
+ .number-7{
+    height:500px;
+    width:1440px;
+   
+    margin-top: 70px;
+    background-color: white;
+    position: relative;
+    right:15%;
+ }
+ .boxhole{
+width:1100px;
+height:40px;
+background-color:white;
+    margin-top: 50px;
+ box-shadow: 1px 1px 1px 1px grey;
+ padding-top: 20px;
+ margin-left: 160px;
+
+ }
+ .number-7 h2{
+ margin-left: 160px;
+ }
+ .footer{
+    background-color: rgb(248, 248, 248);
+    height: 450px;
+    width:1440px;
+    position: relative;
+    right:14%;
+    margin-top: 60px;
+ }
+ .flag{
+    height:30px;
+    width:30px;
+ }
+ .headpart{
+    display: flex;
+    justify-content: space-between;
+    height:100px;
+    width:1200px;
+    border:2px solid black;
+    margin-left: 100px;
+ }
+ 
